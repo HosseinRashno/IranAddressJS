@@ -41,7 +41,7 @@ Example:
         </div>
 ```
 
-You can use how many of this series you want just keep this mind that use each serie in a diffirent ```"div"``` tag. That's all you need to do. Good lock.
+You can use how many of this series you want, just keep this in mind that use each serie in a diffirent ```"div"``` tag. That's all you need to do. Good lock.
 
 ## Copyright and license
 
