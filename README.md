@@ -2,7 +2,7 @@
 IranAddressJS is a jQuery plugin that provides selection for city and province fields (of Iran) in a form. You can simply add two select input in your html page. one for selecting province and the other for selecting the city from the selected province.
 
 ## Demo
-You can access to live Demo from here : http://jsfiddle.net/hosseinRashno/8z8Lo5oL/3/
+You can access to live Demo from here : [Demo](http://jsfiddle.net/hosseinRashno/8z8Lo5oL/3/)
 
 ## Requirements
 
@@ -16,7 +16,7 @@ IranAddressJS works with jQuery 1.3+ . If you have no Idea what is about, Just a
 
 Add a reference to Iran-Address-JS.js :
 
-  You can either download it from this project and add reference like below:
+  You can download it from this project and add reference like below:
 
 ```html
 <script src="Iran-Address-JS.js"></script>
@@ -34,18 +34,16 @@ HTML Code :
   
   ```html
         <div>
-            <!-- Province  -->
-            <label>استان</label>
+            <!-- استان  -->
             <select class="province">
             </select>
-            <!-- City  -->
-            <label>شهر</label>
+            <!-- شهر -->
             <select class="city">
             </select>
         </div>
 ```
 
-You can use how many of this series you want. That's all you need to do. Good lock.
+You can use how many of this series you want just keep this mind that use each serie in a diffirent ```"div"``` tag. That's all you need to do. Good lock.
 
 ## Copyright and license
 
