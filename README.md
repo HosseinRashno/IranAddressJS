@@ -26,7 +26,7 @@ Add a reference to Iran-Address-JS.js :
 
 In your html code you must have two select input. one for province and one for city. Province inputs must have ```"province"``` class and city inputs must have ```"city"``` class.
   
-Each serie of city and province select must be inside a unique ```"div"``` tag.
+Each serie of city and province selects must be inside a unique ```"div"``` tag.
   
 Example:
   
@@ -41,7 +41,7 @@ Example:
         </div>
 ```
 
-You can use how many of this series you want, just keep this in mind that use each serie in a diffirent ```"div"``` tag. That's all you need to do. Good lock.
+You can use how many of these series you want, just keep this in mind that use each serie in a diffirent ```"div"``` tag. That's all you need to do. Good lock.
 
 ## Copyright and license
 
