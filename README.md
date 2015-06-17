@@ -16,7 +16,11 @@ IranAddressJS works with jQuery 1.3+ . If you have no Idea what is about, Just a
 
 Add a reference to Iran-Address-JS.js :
 
-  You can download it from this project and add reference like below:
+  You can add IranAddressJS to your page from jsdeliver CDN, Just add following line to header of you page:
+```html
+<script src="//cdn.jsdelivr.net/jquery.iranaddressjs/0.5.0/jquery.iranaddressjs.js"></script>
+```  
+  Or you can download it from this project and add reference like below:
 
 ```html
 <script src="Iran-Address-JS.js"></script>
